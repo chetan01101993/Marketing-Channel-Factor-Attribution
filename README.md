@@ -11,15 +11,15 @@ Attached is a data detailing weekly spend and impressions for various marketing 
 To answer the above questions, feel free to select any modeling framework (whether an exploratory analysis with SQL/Python, linear model, non-linear model, etc). We are less concerned about the right answer, and more about creative thinking and problem solving.
 
 ## DATA DICTIONARY
-GEO: geography
-WEEK_START: starting day of the week
-YT_PAID_IMP: paid impressions from YouTube
-YT_ORG_IMP: organic (earned) impressions from YouTube
-GOOGLE_IMP: paid impressions from Google
-EMAIL_IMP: email opens
-FB_IMP: paid impressions from Facebook
-AFF_IMP: paid impressions
-GOOGLE_SPEND: weekly spend on Google
-FB_SPEND: weekly spend on Facebook
-AFF_SPEND: weekly spend on affiliates
-REVENUE: weekly revenue
+1. GEO: geography
+2. WEEK_START: starting day of the week
+3. YT_PAID_IMP: paid impressions from YouTube
+4. YT_ORG_IMP: organic (earned) impressions from YouTube
+5. GOOGLE_IMP: paid impressions from Google
+6. EMAIL_IMP: email opens
+7. FB_IMP: paid impressions from Facebook
+8. AFF_IMP: paid impressions
+9. GOOGLE_SPEND: weekly spend on Google
+10. FB_SPEND: weekly spend on Facebook
+11. AFF_SPEND: weekly spend on affiliates
+12. REVENUE: weekly revenue
